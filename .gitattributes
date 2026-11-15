@@ -1,0 +1,22 @@
+# Normalise line endings so Windows and the rest of the world agree.
+* text=auto
+
+# Text files that should always be LF in the repo.
+*.md   text eol=lf
+*.ts   text eol=lf
+*.js   text eol=lf
+*.json text eol=lf
+*.sql  text eol=lf
+
+# Binary — never touch.
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.mp3  binary
+*.ogg  binary
+*.wav  binary
+*.pdf  binary
+*.zip  binary
