@@ -65,6 +65,7 @@ No dates, only dependency order. Each milestone ends with something two people c
 ```
 SPEC.md      the complete design document (authoritative)
 README.md    this file
+NOTICE.md    fan-project and trademark notice
 LICENSE      MIT
 ```
 
